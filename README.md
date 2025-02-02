@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React,Node JS**
 
-- 📫 How to reach me **https://www.linkedin.com/in/priyadarshan-chandra-mohan-3b870128a/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyadarshan-chandra-mohan-3b870128a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyadarshan-chandra-mohan-3b870128a" height="30" width="40" /></a>
